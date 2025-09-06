@@ -10997,3 +10997,7 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+.half-size-image {
+  width: 50%;
+  height: 50%;
+}
